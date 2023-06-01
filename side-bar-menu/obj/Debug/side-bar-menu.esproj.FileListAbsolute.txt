@@ -1,0 +1,2 @@
+C:\Users\Vjacheslav\Desktop\Новая папка (3)\side-bar-menu\side-bar-menu\obj\Debug\side-bar-menu.esproj.SuggestedBindingRedirects.cache
+C:\Users\Vjacheslav\Desktop\Новая папка (3)\side-bar-menu\side-bar-menu\obj\Debug\side-bar-menu.esproj.CoreCompileInputs.cache
