@@ -1,0 +1,2 @@
+C:\Users\Vjacheslav\Desktop\react\hw-second\hw-second\obj\Debug\hw-second.esproj.SuggestedBindingRedirects.cache
+C:\Users\Vjacheslav\Desktop\react\hw-second\hw-second\obj\Debug\hw-second.esproj.CoreCompileInputs.cache
