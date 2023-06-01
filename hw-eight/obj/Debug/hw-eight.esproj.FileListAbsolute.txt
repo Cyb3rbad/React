@@ -1,0 +1,2 @@
+C:\Users\Vjacheslav\Desktop\react\hw-eight\hw-eight\obj\Debug\hw-eight.esproj.SuggestedBindingRedirects.cache
+C:\Users\Vjacheslav\Desktop\react\hw-eight\hw-eight\obj\Debug\hw-eight.esproj.CoreCompileInputs.cache
